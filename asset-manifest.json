@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.f294bac3.css",
-    "main.js": "/static/js/main.3e0b0397.js",
-    "static/js/787.9810aaa7.chunk.js": "/static/js/787.9810aaa7.chunk.js",
-    "index.html": "/index.html",
-    "main.f294bac3.css.map": "/static/css/main.f294bac3.css.map",
-    "main.3e0b0397.js.map": "/static/js/main.3e0b0397.js.map",
-    "787.9810aaa7.chunk.js.map": "/static/js/787.9810aaa7.chunk.js.map"
+    "main.css": "/security-tech/securitypassword/static/css/main.f294bac3.css",
+    "main.js": "/security-tech/securitypassword/static/js/main.6a6970a7.js",
+    "static/js/787.9810aaa7.chunk.js": "/security-tech/securitypassword/static/js/787.9810aaa7.chunk.js",
+    "index.html": "/security-tech/securitypassword/index.html",
+    "main.f294bac3.css.map": "/security-tech/securitypassword/static/css/main.f294bac3.css.map",
+    "main.6a6970a7.js.map": "/security-tech/securitypassword/static/js/main.6a6970a7.js.map",
+    "787.9810aaa7.chunk.js.map": "/security-tech/securitypassword/static/js/787.9810aaa7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f294bac3.css",
-    "static/js/main.3e0b0397.js"
+    "static/js/main.6a6970a7.js"
   ]
 }
